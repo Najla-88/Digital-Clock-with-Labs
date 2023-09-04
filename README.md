@@ -2,6 +2,6 @@
 HTML, CSS and JS website for digital clock with ability to save time as labs 
 
 ## Team members:
-Najla Al-Qassemi  
-Hala Al-Afoori  
-Zahr Al-Saqqaf
+[Hala Al-Afoori](https://github.com/HalaAlafoori)  
+[Zahr Al-Saqqaf](https://github.com/ZGalsaqqaf)  
+[Najla Al-Qassemi](https://github.com/Najla-88)  
